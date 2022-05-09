@@ -143,3 +143,6 @@ singularity:
 
 neomutt:
 	sudo apt-get install -y neomutt
+
+docker:
+

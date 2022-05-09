@@ -1,0 +1,7 @@
+*.log
+log
+etc
+*.keys
+keys
+*.local
+local
